@@ -1,0 +1,7 @@
+classifier,time_took,accuracy
+Logistic Regression,0.0,0.8825806451612903
+Support Vector Machine,0.0,0.8825806451612903
+Navie Bayes,0.0,0.7187096774193549
+K-Nearest Neighbor,0.0,0.5574193548387096
+Random Forest,2.6060330867767334,0.8709677419354839
+Decision Tree,0.0,0.8658064516129033
